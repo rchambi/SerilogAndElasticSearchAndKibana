@@ -1,0 +1,40 @@
+2021-11-20 15:57:27.777 -03:00 [INF] Now listening on: https://localhost:5001
+2021-11-20 15:57:27.816 -03:00 [INF] Now listening on: http://localhost:5000
+2021-11-20 15:57:27.819 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-20 15:57:27.819 -03:00 [INF] Hosting environment: Development
+2021-11-20 15:57:27.819 -03:00 [INF] Content root path: C:\Users\koki\source\repos\adad\git\SerilogAndElasticSearchAndKibana\serilogExample
+2021-11-20 15:59:43.499 -03:00 [INF] This is an example of a complex object: {"Date":"2021-11-20T15:59:43.4674633-03:00","TemperatureC":25,"TemperatureF":76,"Summary":null,"$type":"WeatherForecast"}.
+2021-11-20 15:59:43.524 -03:00 [INF] This log should not contain extra properties
+2021-11-21 00:02:22.197 -03:00 [INF] Now listening on: https://localhost:5001
+2021-11-21 00:02:22.297 -03:00 [INF] Now listening on: http://localhost:5000
+2021-11-21 00:02:22.299 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-21 00:02:22.300 -03:00 [INF] Hosting environment: Development
+2021-11-21 00:02:22.300 -03:00 [INF] Content root path: C:\Users\koki\source\repos\adad\git\SerilogAndElasticSearchAndKibana\serilogExample
+2021-11-21 00:02:34.931 -03:00 [INF] This is an example of a complex object: {"Date":"2021-11-21T00:02:34.8879627-03:00","TemperatureC":25,"TemperatureF":76,"Summary":null,"$type":"WeatherForecast"}.
+2021-11-21 00:02:34.963 -03:00 [INF] This log should not contain extra properties
+2021-11-21 00:05:49.562 -03:00 [INF] Now listening on: https://localhost:5001
+2021-11-21 00:05:49.653 -03:00 [INF] Now listening on: http://localhost:5000
+2021-11-21 00:05:49.654 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-21 00:05:49.655 -03:00 [INF] Hosting environment: Development
+2021-11-21 00:05:49.656 -03:00 [INF] Content root path: C:\Users\koki\source\repos\adad\git\SerilogAndElasticSearchAndKibana\serilogExample
+2021-11-21 00:05:56.576 -03:00 [INF] This is an example of a complex object: aaaaaa.
+2021-11-21 00:05:56.652 -03:00 [INF] This is an example of a complex object: {"Date":"2021-11-21T00:05:56.5726591-03:00","TemperatureC":25,"TemperatureF":76,"Summary":null,"$type":"WeatherForecast"}.
+2021-11-21 00:05:56.692 -03:00 [INF] This log should not contain extra properties
+2021-11-21 00:36:12.861 -03:00 [INF] Now listening on: https://localhost:5001
+2021-11-21 00:36:12.972 -03:00 [INF] Now listening on: http://localhost:5000
+2021-11-21 00:36:12.974 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-21 00:36:12.975 -03:00 [INF] Hosting environment: Development
+2021-11-21 00:36:12.975 -03:00 [INF] Content root path: C:\Users\koki\source\repos\adad\git\SerilogAndElasticSearchAndKibana\serilogExample
+2021-11-21 00:36:18.098 -03:00 [INF] This is an example of a complex object: aaaaaa.
+2021-11-21 00:36:18.115 -03:00 [ERR] Error---------------------------
+2021-11-21 00:36:18.153 -03:00 [INF] This is an example of a complex object: {"Date":"2021-11-21T00:36:18.0963650-03:00","TemperatureC":25,"TemperatureF":76,"Summary":null,"$type":"WeatherForecast"}.
+2021-11-21 00:36:18.180 -03:00 [INF] This log should not contain extra properties
+2021-11-21 01:13:37.376 -03:00 [INF] Now listening on: https://localhost:5001
+2021-11-21 01:13:37.474 -03:00 [INF] Now listening on: http://localhost:5000
+2021-11-21 01:13:37.475 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-21 01:13:37.476 -03:00 [INF] Hosting environment: Development
+2021-11-21 01:13:37.476 -03:00 [INF] Content root path: C:\Users\koki\source\repos\adad\git\SerilogAndElasticSearchAndKibana\serilogExample
+2021-11-21 01:13:43.028 -03:00 [INF] This is an example of a complex object: aaaaaa.
+2021-11-21 01:13:43.044 -03:00 [ERR] Error---------------------------
+2021-11-21 01:13:43.076 -03:00 [INF] This is an example of a complex object: {"Date":"2021-11-21T01:13:43.0270722-03:00","TemperatureC":25,"TemperatureF":76,"Summary":null,"$type":"WeatherForecast"}.
+2021-11-21 01:13:43.097 -03:00 [INF] This log should not contain extra properties
