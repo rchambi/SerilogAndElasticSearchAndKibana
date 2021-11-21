@@ -1,8 +1,8 @@
-# SerilogAndElasticSearchAndKibana
+# SerilogAndElasticSearchAndKibana  
 
-------------------------------VSCode-----------------------------
-dotnet new webapi -o "nombreProyecto"
-NuGet Gallery-> despues view-command-pallete -> nuget open Gallery
+------------------------------VSCode-----------------------------  
+dotnet new webapi -o "nombreProyecto"  
+NuGet Gallery-> despues view-command-pallete -> nuget open Gallery  
 dotnet add package Serilog
 
 * Serilog.Extensions.Logging
